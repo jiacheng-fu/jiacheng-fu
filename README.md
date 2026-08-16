@@ -43,8 +43,39 @@ $ security --summary
 | `▸` | **[wild-west-party-game](https://github.com/jiacheng-fu/wild-west-party-game)** | Live-multiplayer party game built in 24h at HowdyHack 2024 — I built the frontend.<br/><sub>`TypeScript` `Next.js`</sub> |
 
 <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jiacheng-fu/jiacheng-fu/main/assets/sec-architecture.svg" />
+  <img src="https://raw.githubusercontent.com/jiacheng-fu/jiacheng-fu/main/assets/sec-architecture-light.svg" width="100%" alt="04 — Architecture" />
+</picture>
+
+How **Axle** turns a plain-English question into ranked listings — and stays inside a 1,000-call/month model budget.
+
+```mermaid
+flowchart LR
+    Q["Plain-English<br/>query"] --> CDN["React<br/>CloudFront / S3"]
+    CDN --> GW["API Gateway"]
+    GW --> API["FastAPI<br/>on Lambda"]
+
+    API --> CACHE{"Multi-tier cache<br/>memory / disk / DynamoDB TTL"}
+    CACHE -->|hit| RANK["Ranked listings"]
+    CACHE -->|miss| SAN["Schema<br/>sanitization"]
+
+    SAN --> ALIAS["40-entry alias map<br/>+ fuzzy matching"]
+    ALIAS --> ROUTE{"Two-tier<br/>model routing"}
+
+    ROUTE -->|routine parse| SMALL["Cheap model"]
+    ROUTE -->|ambiguous| LARGE["Capable model"]
+
+    SMALL --> RELAX["10-level constraint<br/>relaxation + scoring"]
+    LARGE --> RELAX
+    RELAX --> RANK
+    RANK --> CDN
+```
+
+Two things hold the budget: repeat questions never reach a model, and only genuinely ambiguous ones reach the expensive one. The relaxation ladder is why a query with no exact match still returns ranked results instead of an empty page.
+
+<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jiacheng-fu/jiacheng-fu/main/assets/sec-activity.svg" />
-  <img src="https://raw.githubusercontent.com/jiacheng-fu/jiacheng-fu/main/assets/sec-activity-light.svg" width="100%" alt="04 — Activity" />
+  <img src="https://raw.githubusercontent.com/jiacheng-fu/jiacheng-fu/main/assets/sec-activity-light.svg" width="100%" alt="05 — Activity" />
 </picture>
 
 <picture>
@@ -54,7 +85,7 @@ $ security --summary
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jiacheng-fu/jiacheng-fu/main/assets/sec-contact.svg" />
-  <img src="https://raw.githubusercontent.com/jiacheng-fu/jiacheng-fu/main/assets/sec-contact-light.svg" width="100%" alt="05 — Contact" />
+  <img src="https://raw.githubusercontent.com/jiacheng-fu/jiacheng-fu/main/assets/sec-contact-light.svg" width="100%" alt="06 — Contact" />
 </picture>
 
 <table><tr>

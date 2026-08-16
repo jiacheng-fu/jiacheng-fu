@@ -4,7 +4,7 @@
   </style>
   <rect width="900" height="52" fill="#0b0f14" rx="8"/>
   <rect x="0" y="0" width="4" height="52" fill="#ffa657" rx="2"/>
-  <text class="m" x="26" y="33" font-size="13" fill="#7d8590">04</text>
+  <text class="m" x="26" y="33" font-size="13" fill="#7d8590">05</text>
   <text class="m" x="66" y="33" font-size="18" font-weight="700" fill="#ffa657" letter-spacing="3">ACTIVITY</text>
   <line x1="300" y1="26" x2="874" y2="26" stroke="#1f2630" stroke-width="1"/>
   <circle cx="882" cy="26" r="4" fill="#ffa657" opacity="0.9"/>
