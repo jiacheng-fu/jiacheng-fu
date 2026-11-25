@@ -16,13 +16,24 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 10
     steps:
+      - name: checkout (for the terrain script)
+        uses: actions/checkout@v4
+
       - name: generate snake svg
-        uses: Platane/snk@v3
+        uses: Platane/snk/svg-only@v3
         with:
           github_user_name: jiacheng-fu
           outputs: |
-            dist/github-snake.svg?color_snake=%2300b8ff&color_dots=%23eef2f6,%23a9f5d5,%2354e8b0,%2300ff9f,%2300b8ff
-            dist/github-snake-dark.svg?color_snake=%2300ff9f&color_dots=%231f2630,%23103a2c,%2317724f,%2300ff9f,%2300b8ff
+            dist/github-snake.svg?color_snake=%23c4472d&color_dots=%23eef0ea,%23cddcb8,%2398b97e,%235e8c4a,%2333582a
+            dist/github-snake-dark.svg?color_snake=%23f0784f&color_dots=%23161b16,%23253823,%233b6033,%236b9a52,%23a8cf8a
+
+      # snk has no shape option. This redraws the day cells as contour-line
+      # terrain built from the contribution levels (busy weeks become hills).
+      # It exits non-zero if snk's markup ever changes, so the last good snake stays.
+      - name: redraw cells as terrain
+        run: |
+          node .github/snake-shape.js dist/github-snake.svg dist/github-snake.svg terrain '#dcc6a6' '#b08d62'
+          node .github/snake-shape.js dist/github-snake-dark.svg dist/github-snake-dark.svg terrain '#463e32' '#7d6c52'
 
       - name: push to output branch
         uses: crazy-max/ghaction-github-pages@v4
