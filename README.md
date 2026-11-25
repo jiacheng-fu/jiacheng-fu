@@ -10,7 +10,7 @@
 
 CS student at **Texas A&M** in Austin, TX — B.S. December 2027 (3.87 GPA, math minor). I build and ship full-stack products end to end, work on **application security** for a production multi-tenant SaaS platform, and spent a summer writing an **LLVM compiler backend** for a vector DSP.
 
-**Live:** [brianfu.vercel.app](https://brianfu.vercel.app) · [Axle](https://d1j3m9qdbgs5ik.cloudfront.net)
+**Live:** [brianfu.dev](https://brianfu.dev) · [Axle](https://d1j3m9qdbgs5ik.cloudfront.net)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jiacheng-fu/jiacheng-fu/main/assets/topo/stats.svg" />
@@ -42,7 +42,7 @@ CS student at **Texas A&M** in Austin, TX — B.S. December 2027 (3.87 GPA, math
 <a href="https://github.com/jiacheng-fu/personal-website">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jiacheng-fu/jiacheng-fu/main/assets/topo/proj-site.svg" />
-  <img src="https://raw.githubusercontent.com/jiacheng-fu/jiacheng-fu/main/assets/topo/proj-site-light.svg" width="100%" alt="personal-website: A portfolio site built around an interactive 3D keyboard." />
+  <img src="https://raw.githubusercontent.com/jiacheng-fu/jiacheng-fu/main/assets/topo/proj-site-light.svg" width="100%" alt="personal-website: A 3D skills keyboard and a retro terminal that answers questions about me with an LLM running in the browser (BM25 + Qwen3-0.6B on WebGPU)." />
 </picture>
 </a>
 
@@ -96,4 +96,4 @@ Two things hold the budget: repeat questions never reach a model, and only genui
   <img src="https://raw.githubusercontent.com/jiacheng-fu/jiacheng-fu/main/assets/topo/sec-contact-light.svg" width="100%" alt="06 — Contact" />
 </picture>
 
-<a href="https://linkedin.com/in/jiachengfu"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jiacheng-fu/jiacheng-fu/main/assets/topo/sign-linkedin.svg" /><img src="https://raw.githubusercontent.com/jiacheng-fu/jiacheng-fu/main/assets/topo/sign-linkedin-light.svg" width="204" alt="LinkedIn" /></picture></a> <a href="mailto:brian.fu123321@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jiacheng-fu/jiacheng-fu/main/assets/topo/sign-email.svg" /><img src="https://raw.githubusercontent.com/jiacheng-fu/jiacheng-fu/main/assets/topo/sign-email-light.svg" width="204" alt="Email" /></picture></a> <a href="https://github.com/jiacheng-fu"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jiacheng-fu/jiacheng-fu/main/assets/topo/sign-github.svg" /><img src="https://raw.githubusercontent.com/jiacheng-fu/jiacheng-fu/main/assets/topo/sign-github-light.svg" width="204" alt="GitHub" /></picture></a>
+<a href="https://brianfu.dev"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jiacheng-fu/jiacheng-fu/main/assets/topo/sign-website.svg" /><img src="https://raw.githubusercontent.com/jiacheng-fu/jiacheng-fu/main/assets/topo/sign-website-light.svg" width="200" alt="Website" /></picture></a> <a href="https://linkedin.com/in/jiachengfu"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jiacheng-fu/jiacheng-fu/main/assets/topo/sign-linkedin.svg" /><img src="https://raw.githubusercontent.com/jiacheng-fu/jiacheng-fu/main/assets/topo/sign-linkedin-light.svg" width="200" alt="LinkedIn" /></picture></a> <a href="mailto:brian.fu123321@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jiacheng-fu/jiacheng-fu/main/assets/topo/sign-email.svg" /><img src="https://raw.githubusercontent.com/jiacheng-fu/jiacheng-fu/main/assets/topo/sign-email-light.svg" width="200" alt="Email" /></picture></a> <a href="https://github.com/jiacheng-fu"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jiacheng-fu/jiacheng-fu/main/assets/topo/sign-github.svg" /><img src="https://raw.githubusercontent.com/jiacheng-fu/jiacheng-fu/main/assets/topo/sign-github-light.svg" width="200" alt="GitHub" /></picture></a>
