@@ -1,11 +1,11 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jiacheng-fu/jiacheng-fu/main/assets/topo/header.svg" />
-  <img src="https://raw.githubusercontent.com/jiacheng-fu/jiacheng-fu/main/assets/topo/header-light.svg" width="100%" alt="Brian Fu — Software Engineer" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jiacheng-fu/jiacheng-fu/main/assets/topo/header.svg?v=10bce4be" />
+  <img src="https://raw.githubusercontent.com/jiacheng-fu/jiacheng-fu/main/assets/topo/header-light.svg?v=51536219" width="100%" alt="Brian Fu — Software Engineer" />
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jiacheng-fu/jiacheng-fu/main/assets/topo/sec-about.svg" />
-  <img src="https://raw.githubusercontent.com/jiacheng-fu/jiacheng-fu/main/assets/topo/sec-about-light.svg" width="100%" alt="01 — About" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jiacheng-fu/jiacheng-fu/main/assets/topo/sec-about.svg?v=4c953a84" />
+  <img src="https://raw.githubusercontent.com/jiacheng-fu/jiacheng-fu/main/assets/topo/sec-about-light.svg?v=9585973b" width="100%" alt="01 — About" />
 </picture>
 
 CS student at **Texas A&M** in Austin, TX — B.S. December 2027 (3.87 GPA, math minor). I build and ship full-stack products end to end, work on **application security** for a production multi-tenant SaaS platform, and spent a summer writing an **LLVM compiler backend** for a vector DSP.
@@ -13,77 +13,77 @@ CS student at **Texas A&M** in Austin, TX — B.S. December 2027 (3.87 GPA, math
 **Live:** [brianfu.dev](https://brianfu.dev) · [Axle](https://d1j3m9qdbgs5ik.cloudfront.net)
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jiacheng-fu/jiacheng-fu/main/assets/topo/stats.svg" />
-  <img src="https://raw.githubusercontent.com/jiacheng-fu/jiacheng-fu/main/assets/topo/stats-light.svg" width="100%" alt="50+ production vulnerabilities remediated; 13-stage pre-push verification pipeline; cross-tenant authorization gap closed" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jiacheng-fu/jiacheng-fu/main/assets/topo/stats.svg?v=0e08a198" />
+  <img src="https://raw.githubusercontent.com/jiacheng-fu/jiacheng-fu/main/assets/topo/stats-light.svg?v=b760224d" width="100%" alt="50+ production vulnerabilities remediated; 13-stage pre-push verification pipeline; cross-tenant authorization gap closed" />
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jiacheng-fu/jiacheng-fu/main/assets/topo/sec-stack.svg" />
-  <img src="https://raw.githubusercontent.com/jiacheng-fu/jiacheng-fu/main/assets/topo/sec-stack-light.svg" width="100%" alt="02 — Stack" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jiacheng-fu/jiacheng-fu/main/assets/topo/sec-stack.svg?v=b2249256" />
+  <img src="https://raw.githubusercontent.com/jiacheng-fu/jiacheng-fu/main/assets/topo/sec-stack-light.svg?v=c7436ee0" width="100%" alt="02 — Stack" />
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jiacheng-fu/jiacheng-fu/main/assets/topo/stack.svg" />
-  <img src="https://raw.githubusercontent.com/jiacheng-fu/jiacheng-fu/main/assets/topo/stack-light.svg" width="100%" alt="Languages, frontend, backend, security, tooling" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jiacheng-fu/jiacheng-fu/main/assets/topo/stack.svg?v=b65d6bff" />
+  <img src="https://raw.githubusercontent.com/jiacheng-fu/jiacheng-fu/main/assets/topo/stack-light.svg?v=eba183b2" width="100%" alt="Languages, frontend, backend, security, tooling" />
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jiacheng-fu/jiacheng-fu/main/assets/topo/sec-projects.svg" />
-  <img src="https://raw.githubusercontent.com/jiacheng-fu/jiacheng-fu/main/assets/topo/sec-projects-light.svg" width="100%" alt="03 — Projects" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jiacheng-fu/jiacheng-fu/main/assets/topo/sec-projects.svg?v=8dbc3964" />
+  <img src="https://raw.githubusercontent.com/jiacheng-fu/jiacheng-fu/main/assets/topo/sec-projects-light.svg?v=d8aaed92" width="100%" alt="03 — Projects" />
 </picture>
 
 <a href="https://github.com/jiacheng-fu/axle">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jiacheng-fu/jiacheng-fu/main/assets/topo/proj-axle.svg" />
-  <img src="https://raw.githubusercontent.com/jiacheng-fu/jiacheng-fu/main/assets/topo/proj-axle-light.svg" width="100%" alt="Axle: Plain English in, ranked real listings out. An LLM pipeline with two-tier model routing, held inside a 1,000-call/month budget." />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jiacheng-fu/jiacheng-fu/main/assets/topo/proj-axle.svg?v=b58a9561" />
+  <img src="https://raw.githubusercontent.com/jiacheng-fu/jiacheng-fu/main/assets/topo/proj-axle-light.svg?v=41440450" width="100%" alt="Axle: Plain English in, ranked real listings out. An LLM pipeline with two-tier model routing, held inside a 1,000-call/month budget." />
 </picture>
 </a>
 
 <a href="https://github.com/jiacheng-fu/personal-website">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jiacheng-fu/jiacheng-fu/main/assets/topo/proj-site.svg" />
-  <img src="https://raw.githubusercontent.com/jiacheng-fu/jiacheng-fu/main/assets/topo/proj-site-light.svg" width="100%" alt="personal-website: A 3D skills keyboard and a retro terminal that answers questions about me with an LLM running in the browser (BM25 + Qwen3-0.6B on WebGPU)." />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jiacheng-fu/jiacheng-fu/main/assets/topo/proj-site.svg?v=a597b835" />
+  <img src="https://raw.githubusercontent.com/jiacheng-fu/jiacheng-fu/main/assets/topo/proj-site-light.svg?v=cb515f1c" width="100%" alt="personal-website: A 3D skills keyboard and a retro terminal that answers questions about me with an LLM running in the browser (BM25 + Qwen3-0.6B on WebGPU)." />
 </picture>
 </a>
 
 <a href="https://github.com/jiacheng-fu/project-horizon">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jiacheng-fu/jiacheng-fu/main/assets/topo/proj-horizon.svg" />
-  <img src="https://raw.githubusercontent.com/jiacheng-fu/jiacheng-fu/main/assets/topo/proj-horizon-light.svg" width="100%" alt="Project Horizon: Narrative exploration game, built solo. Typewriter dialogue synced to voiceover, with branching choices that gate progression." />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jiacheng-fu/jiacheng-fu/main/assets/topo/proj-horizon.svg?v=bfabc1e3" />
+  <img src="https://raw.githubusercontent.com/jiacheng-fu/jiacheng-fu/main/assets/topo/proj-horizon-light.svg?v=c86078fb" width="100%" alt="Project Horizon: Narrative exploration game, built solo. Typewriter dialogue synced to voiceover, with branching choices that gate progression." />
 </picture>
 </a>
 
 <a href="https://github.com/jiacheng-fu/CarStatus">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jiacheng-fu/jiacheng-fu/main/assets/topo/proj-car.svg" />
-  <img src="https://raw.githubusercontent.com/jiacheng-fu/jiacheng-fu/main/assets/topo/proj-car-light.svg" width="100%" alt="CarStatus: Reads a BMW's live odometer, fuel, battery and location through the Smartcar API." />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jiacheng-fu/jiacheng-fu/main/assets/topo/proj-car.svg?v=6e9700a6" />
+  <img src="https://raw.githubusercontent.com/jiacheng-fu/jiacheng-fu/main/assets/topo/proj-car-light.svg?v=692983fc" width="100%" alt="CarStatus: Reads a BMW's live odometer, fuel, battery and location through the Smartcar API." />
 </picture>
 </a>
 
 <a href="https://github.com/jiacheng-fu/wild-west-party-game">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jiacheng-fu/jiacheng-fu/main/assets/topo/proj-west.svg" />
-  <img src="https://raw.githubusercontent.com/jiacheng-fu/jiacheng-fu/main/assets/topo/proj-west-light.svg" width="100%" alt="Wild West Party Game: Live multiplayer party game built in 24 hours. I built the frontend." />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jiacheng-fu/jiacheng-fu/main/assets/topo/proj-west.svg?v=1a8447fe" />
+  <img src="https://raw.githubusercontent.com/jiacheng-fu/jiacheng-fu/main/assets/topo/proj-west-light.svg?v=c01d4c40" width="100%" alt="Wild West Party Game: Live multiplayer party game built in 24 hours. I built the frontend." />
 </picture>
 </a>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jiacheng-fu/jiacheng-fu/main/assets/topo/sec-architecture.svg" />
-  <img src="https://raw.githubusercontent.com/jiacheng-fu/jiacheng-fu/main/assets/topo/sec-architecture-light.svg" width="100%" alt="04 — Architecture" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jiacheng-fu/jiacheng-fu/main/assets/topo/sec-architecture.svg?v=4e17dc28" />
+  <img src="https://raw.githubusercontent.com/jiacheng-fu/jiacheng-fu/main/assets/topo/sec-architecture-light.svg?v=6003b2c5" width="100%" alt="04 — Architecture" />
 </picture>
 
 How **Axle** turns a plain-English question into ranked listings — and stays inside a 1,000-call/month model budget.
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jiacheng-fu/jiacheng-fu/main/assets/topo/arch-map.svg" />
-  <img src="https://raw.githubusercontent.com/jiacheng-fu/jiacheng-fu/main/assets/topo/arch-map-light.svg" width="100%" alt="Trail map of an Axle request: plain-English query, React on CloudFront/S3, API Gateway, FastAPI on Lambda, then a multi-tier cache. A cache hit goes straight to ranked listings with no model call. A miss goes through schema sanitization, a 40-entry alias map with fuzzy matching and two-tier model routing (cheap model for routine parses, capable model when ambiguous), then 10-level constraint relaxation and scoring to ranked listings, which return to the React client." />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jiacheng-fu/jiacheng-fu/main/assets/topo/arch-map.svg?v=826dcdd1" />
+  <img src="https://raw.githubusercontent.com/jiacheng-fu/jiacheng-fu/main/assets/topo/arch-map-light.svg?v=f52e617f" width="100%" alt="Trail map of an Axle request: plain-English query, React on CloudFront/S3, API Gateway, FastAPI on Lambda, then a multi-tier cache. A cache hit goes straight to ranked listings with no model call. A miss goes through schema sanitization, a 40-entry alias map with fuzzy matching and two-tier model routing (cheap model for routine parses, capable model when ambiguous), then 10-level constraint relaxation and scoring to ranked listings, which return to the React client." />
 </picture>
 
 Two things hold the budget: repeat questions never reach a model, and only genuinely ambiguous ones reach the expensive one. The relaxation ladder is why a query with no exact match still returns ranked results instead of an empty page.
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jiacheng-fu/jiacheng-fu/main/assets/topo/sec-activity.svg" />
-  <img src="https://raw.githubusercontent.com/jiacheng-fu/jiacheng-fu/main/assets/topo/sec-activity-light.svg" width="100%" alt="05 — Activity" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jiacheng-fu/jiacheng-fu/main/assets/topo/sec-activity.svg?v=c09c7dc8" />
+  <img src="https://raw.githubusercontent.com/jiacheng-fu/jiacheng-fu/main/assets/topo/sec-activity-light.svg?v=84491583" width="100%" alt="05 — Activity" />
 </picture>
 
 <picture>
@@ -92,8 +92,8 @@ Two things hold the budget: repeat questions never reach a model, and only genui
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jiacheng-fu/jiacheng-fu/main/assets/topo/sec-contact.svg" />
-  <img src="https://raw.githubusercontent.com/jiacheng-fu/jiacheng-fu/main/assets/topo/sec-contact-light.svg" width="100%" alt="06 — Contact" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jiacheng-fu/jiacheng-fu/main/assets/topo/sec-contact.svg?v=ac0e5ae9" />
+  <img src="https://raw.githubusercontent.com/jiacheng-fu/jiacheng-fu/main/assets/topo/sec-contact-light.svg?v=933b7d6b" width="100%" alt="06 — Contact" />
 </picture>
 
-<a href="https://brianfu.dev"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jiacheng-fu/jiacheng-fu/main/assets/topo/sign-website.svg" /><img src="https://raw.githubusercontent.com/jiacheng-fu/jiacheng-fu/main/assets/topo/sign-website-light.svg" width="200" alt="Website" /></picture></a> <a href="https://linkedin.com/in/jiachengfu"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jiacheng-fu/jiacheng-fu/main/assets/topo/sign-linkedin.svg" /><img src="https://raw.githubusercontent.com/jiacheng-fu/jiacheng-fu/main/assets/topo/sign-linkedin-light.svg" width="200" alt="LinkedIn" /></picture></a> <a href="mailto:brian.fu123321@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jiacheng-fu/jiacheng-fu/main/assets/topo/sign-email.svg" /><img src="https://raw.githubusercontent.com/jiacheng-fu/jiacheng-fu/main/assets/topo/sign-email-light.svg" width="200" alt="Email" /></picture></a> <a href="https://github.com/jiacheng-fu"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jiacheng-fu/jiacheng-fu/main/assets/topo/sign-github.svg" /><img src="https://raw.githubusercontent.com/jiacheng-fu/jiacheng-fu/main/assets/topo/sign-github-light.svg" width="200" alt="GitHub" /></picture></a>
+<a href="https://brianfu.dev"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jiacheng-fu/jiacheng-fu/main/assets/topo/sign-website.svg?v=5038d66e" /><img src="https://raw.githubusercontent.com/jiacheng-fu/jiacheng-fu/main/assets/topo/sign-website-light.svg?v=63fd1c54" width="200" alt="Website" /></picture></a> <a href="https://linkedin.com/in/jiachengfu"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jiacheng-fu/jiacheng-fu/main/assets/topo/sign-linkedin.svg?v=9bedbf42" /><img src="https://raw.githubusercontent.com/jiacheng-fu/jiacheng-fu/main/assets/topo/sign-linkedin-light.svg?v=64de5d8b" width="200" alt="LinkedIn" /></picture></a> <a href="mailto:brian.fu123321@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jiacheng-fu/jiacheng-fu/main/assets/topo/sign-email.svg?v=c64cb6d5" /><img src="https://raw.githubusercontent.com/jiacheng-fu/jiacheng-fu/main/assets/topo/sign-email-light.svg?v=9f3a9723" width="200" alt="Email" /></picture></a> <a href="https://github.com/jiacheng-fu"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jiacheng-fu/jiacheng-fu/main/assets/topo/sign-github.svg?v=1edd8175" /><img src="https://raw.githubusercontent.com/jiacheng-fu/jiacheng-fu/main/assets/topo/sign-github-light.svg?v=6805ddb8" width="200" alt="GitHub" /></picture></a>
